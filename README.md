@@ -79,4 +79,3 @@ Open your browser and navigate to http://localhost:3000.
 Select the ADOM and retrieve the device information.
 
 Export the data to Excel or generate an HTML report for email.
-# fortimanager-web-app
